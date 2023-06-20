@@ -14,7 +14,7 @@ export default function LoggedInPage(props) {
         <Card.Divider />
         <View
           style={{
-            position: "relative",
+            // position: "relative",
             alignItems: "center",
           }}
         >
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#fff",
     alignItems: "center",
-    justifyContent: "center",
+    // justifyContent: "center",
   },
   header: {
     fontSize: 25,
